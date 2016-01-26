@@ -1,0 +1,53 @@
+/*text color*/
+.byline{
+  color:#FF9120;
+}
+/*text font*/
+.article-body{
+  font-family: 'Raleway', sans-serif;
+}
+header{
+  font-family: 'Raleway', sans-serif;;
+  height: 30%
+}
+/*text detail*/
+a{
+  text-decoration: none;
+  color: #faa700;
+  height: 50%;
+  /*678CD4*/
+}
+a:visited{
+  text-decoration: none;
+  color: #faa700;
+}
+/*header*/
+.title1{
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 2%;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
+.title2{
+  text-align: left;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 3%;
+  color: white;
+  text-align: center;
+}
+.title-wrapper{
+  background-color: #333333;
+  height:30%;
+  padding-top: 2%;
+  max-width: 100%;
+}
+/*background colors*/
+}
+.title-wrapper{
+    background-color: #faa700;
+    display: inline;
+
+}

@@ -1,0 +1,37 @@
+/*media queries*/
+/*@media only screen and (max-width: 640px) {
+
+   #hamburger {
+     display: inline-block;
+   }
+   .main-nav {
+     display: none;
+   }
+ }*/
+ @media only screen and (min-width: 640px) {
+
+    #hamburger {
+      display: none;
+    }
+    .main-nav {
+      display: inline-block;
+      width: 100%;
+      height:auto;
+    }
+
+    li.tab{
+      float: left;
+      display: inline;
+      width: 25%;
+    }
+    li.tab a {
+      display: block;
+      text-align:center;
+      width:100%;
+
+    }
+    ul {
+    list-style-type: none;
+    width: 100%;
+    overflow: hidden;
+  }
